@@ -1,0 +1,31 @@
+athlete,name,distance,moving_time,elapsed_time,total_elevation_gain,type,sport_type,workout_type,id,start_date,start_date_local,timezone
+"{'id': 111966162, 'resource_state': 1}",Lunch Ride,22184.9,4430,4457,319.9,Ride,Ride,0,10881253487,2024-03-03T12:50:30Z,2024-03-03T09:50:30Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22191.0,4289,4308,321.7,Ride,Ride,0,10877515833,2024-03-02T22:52:39Z,2024-03-02T19:52:39Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Evening Ride,22061.4,3974,3984,321.8,Ride,Ride,0,10870495586,2024-03-01T22:40:22Z,2024-03-01T19:40:22Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Lunch Ride,22016.8,4421,4463,336.7,Ride,Ride,0,10861375358,2024-02-29T13:07:34Z,2024-02-29T10:07:34Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Evening Ride,22232.7,4284,4313,332.3,Ride,Ride,0,10858104164,2024-02-28T22:32:52Z,2024-02-28T19:32:52Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Evening Ride,22007.1,4497,4497,319.1,Ride,Ride,0,10851125008,2024-02-27T22:05:57Z,2024-02-27T19:05:57Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22100.9,4272,4348,319.8,Ride,Ride,0,10844160304,2024-02-26T23:00:08Z,2024-02-26T20:00:08Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Morning Ride,21878.2,4534,4671,355.0,Ride,Ride,0,10772514632,2024-02-16T10:47:21Z,2024-02-16T07:47:21Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22020.4,4441,4609,319.2,Ride,Ride,0,10724638991,2024-02-08T23:15:51Z,2024-02-08T20:15:51Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22425.2,4648,5063,319.6,Ride,Ride,0,10718358344,2024-02-07T23:04:35Z,2024-02-07T20:04:35Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22287.0,4657,4851,320.1,Ride,Ride,0,10643413687,2024-01-27T23:23:07Z,2024-01-27T20:23:07Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22166.0,4609,4716,322.0,Ride,Ride,0,10630288627,2024-01-25T23:09:17Z,2024-01-25T20:09:17Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22126.8,4557,4814,319.3,Ride,Ride,0,10610541345,2024-01-22T22:47:46Z,2024-01-22T19:47:46Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22029.4,4825,5226,319.4,Ride,Ride,0,10597947235,2024-01-20T23:15:14Z,2024-01-20T20:15:14Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22246.4,5221,6103,322.1,Ride,Ride,0,10585668302,2024-01-18T23:10:24Z,2024-01-18T20:10:24Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22208.3,4314,4372,315.7,Ride,Ride,0,8490557396,2023-02-01T23:10:09Z,2023-02-01T20:10:09Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22283.2,4293,4561,315.7,Ride,Ride,0,8479344449,2023-01-30T23:06:04Z,2023-01-30T20:06:04Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22133.3,4359,4478,318.6,Ride,Ride,0,8468387120,2023-01-28T23:15:27Z,2023-01-28T20:15:27Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22136.9,4319,4422,316.0,Ride,Ride,0,8462587681,2023-01-27T22:57:16Z,2023-01-27T19:57:16Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,21958.3,4513,5201,314.4,Ride,Ride,0,8430748662,2023-01-21T23:28:47Z,2023-01-21T20:28:47Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22153.9,4336,4540,324.2,Ride,Ride,0,8424921558,2023-01-20T23:07:11Z,2023-01-20T20:07:11Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22139.9,4130,4279,315.6,Ride,Ride,0,8404040291,2023-01-16T23:12:10Z,2023-01-16T20:12:10Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22178.0,4446,4613,312.7,Ride,Ride,0,8393178162,2023-01-14T23:24:13Z,2023-01-14T20:24:13Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22148.8,4315,4752,325.3,Ride,Ride,0,8387623121,2023-01-13T23:19:45Z,2023-01-13T20:19:45Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22160.3,4200,4448,315.6,Ride,Ride,0,8377557787,2023-01-11T23:05:19Z,2023-01-11T20:05:19Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,21683.3,4536,4909,288.8,Ride,Ride,0,8372042206,2023-01-10T23:02:48Z,2023-01-10T20:02:48Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Night Ride,22459.7,5391,6408,311.6,Ride,Ride,0,8328824229,2023-01-02T22:37:08Z,2023-01-02T19:37:08Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}",Menque - Coliumo,22140.4,4699,5374,311.6,Ride,Ride,0,8313734899,2022-12-30T22:53:54Z,2022-12-30T19:53:54Z,(GMT-04:00) America/Santiago
+"{'id': 111966162, 'resource_state': 1}","Menque - Coliumo
+",22100.2,4889,5362,309.5,Ride,Ride,0,8304731986,2022-12-28T22:53:35Z,2022-12-28T19:53:35Z,(GMT-04:00) America/Santiago
